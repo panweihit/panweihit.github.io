@@ -11,7 +11,7 @@ author_profile: true
 
 ## Selected Publications
 
-<b>[Sparse Bayesian deep learning for dynamic system identification](https://arxiv.org/abs/2107.12910)</b><br>
+<b>[Sparse Bayesian Deep Learning for Dynamic System Identification](https://arxiv.org/abs/2107.12910)</b><br>
 Hongpeng Zhou, Chahine Ibrahim, Wei Xing Zheng, and <b>Wei Pan</b>.<br>
 <i>Automatica.</i> <b>2022</b>.
 
