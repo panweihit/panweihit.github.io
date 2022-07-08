@@ -33,7 +33,7 @@ Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
 
 <b>[A Sparse Bayesian Approach to the Identification of Nonlinear State-Space Systems](https://ieeexplore.ieee.org/document/7094238)</b><br>
 <b>Wei Pan</b>, Ye Yuan, Jorge Gonçalves, and Guy-Bart Stan.<br>
-<i>IEEE Transaction on Automatic Control.</i> <b>2016</b>.
+<i>IEEE Transactions on Automatic Control.</i> <b>2016</b>.
 
 
 
