@@ -12,6 +12,8 @@ I am an [Assoicate Professor](https://www.research.manchester.ac.uk/portal/en/re
 
 I have a broad interest in robot control using Bayesian machine learning and the principles of dynamic control.
 
+<span style="color:red">**Multiple fully-funded PhD positions are openning.**</span>.
+
 Recent News 
 ======
 * January 31, 2022, Our paper "[Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots]()" accepted to ICRA!
