@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an [Assoicate Professor](https://www.research.manchester.ac.uk/portal/en/researchers/wei-pan(7543834f-4e4d-4596-9038-11ce2d879f9e).html) in [Machine Learning](https://www.idsai.manchester.ac.uk/research/centre-for-ai-fundamentals/) at the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [the University of Manchester](https://www.manchester.ac.uk/). Before that, I was an [Assistant Professor](https://www.tudelft.nl/en/staff/wei.pan/) in [Robot Dynamics](https://www.tudelft.nl/3me/over/afdelingen/cognitive-robotics-cor/people/robot-dynamics) at the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/) and co-director of [Delft SELF AI Lab](https://www.tudelft.nl/ai/self-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=SELFLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50), [Delft University of Technology](https://www.tudelft.nl/en/), Netherlands and a Project Leader at [DJI](http://www.dji.com), China.
+I am an [Assoicate Professor](https://www.research.manchester.ac.uk/portal/en/researchers/wei-pan(7543834f-4e4d-4596-9038-11ce2d879f9e).html) in [Machine Learning](https://www.idsai.manchester.ac.uk/research/centre-for-ai-fundamentals/) at the [Department of Computer Science](https://www.cs.manchester.ac.uk/), [the University of Manchester](https://www.manchester.ac.uk/). Before that, I was an [Assistant Professor](https://www.tudelft.nl/en/staff/wei.pan/) in [Robot Dynamics](https://www.tudelft.nl/3me/over/afdelingen/cognitive-robotics-cor/people/robot-dynamics) at the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/) and co-director of [Delft SELF AI Lab](https://www.tudelft.nl/ai/self-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=SELFLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50), [Delft University of Technology](https://www.tudelft.nl/en/), Netherlands and a Project Leader at [DJI](http://www.dji.com), China. I received my PhD degree in [Bioengineering](https://www.imperial.ac.uk/bioengineering) from [Imperial College London](https://www.imperial.ac.uk/), UK.
 
 I have a broad interest in robot control using Bayesian machine learning and the principles of dynamic control.
 
-<span style="color:red">**Multiple fully-funded PhD positions are openning.**</span>
+<span style="color:red">**Multiple fully-funded PhD scholarships are available in Manchester.**</span>
 
 Recent News 
 ======
