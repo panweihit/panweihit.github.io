@@ -14,9 +14,15 @@ I have a broad interest in robot control using Bayesian machine learning and the
 
 <span style="color:red">**Multiple fully-funded PhD scholarships are available in Manchester.**</span>
 
-Recent News 
-======
-* January 31, 2022, Our paper "[Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots]()" accepted to ICRA!
+
+<details>
+  <summary>Past News</summary>
+  
+  ## Past News 
+* May 12, My first PhD student, Hongpeng Zhou sucessfuly defended his PhD thesis "[Bayesian Deep Learning for System Identification
+](https://www.narcis.nl/publication/RecordID/oai:tudelft.nl:uuid%3A94b0cdd5-280b-4afb-a210-f19ecf12cf66)". Huge congratulations, Dr Zhou!  
+* May 8, Our paper "[Sparse Bayesian Deep Learning for Dynamic System Identification](https://www.sciencedirect.com/science/article/pii/S000510982200348X)" was accepted by Automatica! Well done, Hongpeng and Ibrahim.  
+* January 31, 2022, Our paper "[Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots](https://ieeexplore.ieee.org/document/9811604)" accepted to ICRA!
 * Dec 28, 2021, <span style="color:red">**One PostDoc position openning**</span> on robust and safe RL for control. [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=2178&nPostingTargetId=5329&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external)
 * Dec 15, 2021, <span style="color:red">**One PhD position openning**</span> on neuromorphic processors and spiking neural network training. [Apply Now!](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=5039&jobTitle=SELF%20Lab%204%20PhD%20Positions)
 * October 25, 2021, Our paper "[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)" accepted to Automatica!
@@ -58,3 +64,6 @@ Recent News
 * Febrary 8, 2019. Two abstracts accepted to [Benelux Meeting](https://www.beneluxmeeting.nl/2019/).
 * December 21, 2018. Our paper [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7) accepted to ICLR 2019!
 * May 1, 2018. Start my research group in the Department of Cognitive Robotics, TU Delft. Thanks to the amazing colleagues in [DJI](http://www.dji.com)! Thanks [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen)! 
+
+</details>
+
