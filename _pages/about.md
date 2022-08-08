@@ -18,7 +18,8 @@ I have a broad interest in robot control using Bayesian machine learning and the
 <details>
   <summary>Past News</summary>
   
-  ## Past News 
+## Past News 
+  
 * May 12, My first PhD student, Hongpeng Zhou sucessfuly defended his PhD thesis "[Bayesian Deep Learning for System Identification
 ](https://www.narcis.nl/publication/RecordID/oai:tudelft.nl:uuid%3A94b0cdd5-280b-4afb-a210-f19ecf12cf66)". Huge congratulations, Dr Zhou!  
 * May 8, Our paper "[Sparse Bayesian Deep Learning for Dynamic System Identification](https://www.sciencedirect.com/science/article/pii/S000510982200348X)" was accepted by Automatica! Well done, Hongpeng and Ibrahim.  
