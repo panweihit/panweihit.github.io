@@ -32,7 +32,7 @@ author_profile: true
 
 
 <details>
-  <summary><strong>Past Members</strong></summary>
+  <summary><strong>Past Members</strong></summary><p>
   
   
 
@@ -71,5 +71,5 @@ Thesis: [Accelerating Neural Networks Embedded on a Microcomputer Trained on KIT
 Thesis: [Model Free Reinforcement Learning with Stability Guarantee](https://repository.tudelft.nl/islandora/object/uuid%3Adde4e58f-e109-4e7f-8ecb-ed1734294e5c)
 * Minghao Yang, Thesis: [Efficient Neural Network Architecture Search](https://repository.tudelft.nl/islandora/object/uuid%3A9985c543-cb4e-4259-b6f8-b44ba433f1e3)
 
-</details>
+</p></details>
  
