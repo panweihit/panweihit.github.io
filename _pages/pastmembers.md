@@ -1,3 +1,9 @@
+---
+permalink: /people/past/
+title: "Past Members"
+author_profile: true
+---
+
 <h3>Past PostDoc</h3>
   
 *  [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
