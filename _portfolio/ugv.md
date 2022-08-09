@@ -1,6 +1,6 @@
 ---
 title: "Unmanned Ground Vehicle"
-excerpt: ""
+permalink: /robots/ugv
 collection: portfolio
 ---
 
