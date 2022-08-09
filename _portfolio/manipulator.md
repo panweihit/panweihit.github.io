@@ -1,6 +1,6 @@
 ---
 title: "Manipulator"
-excerpt: ""
+permalink: /robots/manipulator
 collection: portfolio
 ---
 
