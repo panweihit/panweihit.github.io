@@ -16,7 +16,7 @@ I have a broad interest in robot control using Bayesian machine learning and the
 
 
 <details>
-  <summary>Past News</summary>
+  <summary><strong>Past News</strong></summary>
   
 ## Past News 
   
