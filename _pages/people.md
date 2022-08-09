@@ -30,7 +30,7 @@ author_profile: true
 * Yuxiang Liu
 
 <details>
-  <summary>Past Members</summary>
+  <summary><srong>Past Members</strong></summary>
 
 ## Past PostDoc
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
