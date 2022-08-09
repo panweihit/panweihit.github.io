@@ -10,7 +10,7 @@ main:
     url: /teaching/    
  
   - title: "Robots"
-    url: /portfolio/
+    url: /robots/
   
   - title: "Software"
     url: /software/ 
