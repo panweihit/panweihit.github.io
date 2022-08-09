@@ -237,7 +237,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: robot
     values:
       layout: single
       author_profile: true
