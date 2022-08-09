@@ -31,9 +31,6 @@ author_profile: true
 
 
 
-<details>
-  <summary><strong>Past Members</strong></summary><p>
-  More information can be found [here]()
+### [Past Members](https://panweihit.github.io/people/past)
 
-</p></details>
- 
+
