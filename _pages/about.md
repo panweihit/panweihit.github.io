@@ -15,9 +15,6 @@ I have a broad interest in robot control using Bayesian machine learning and the
 <span style="color:red">**Multiple fully-funded PhD scholarships are available in Manchester.**</span>
 
 
+[Past News](https://panweihit.github.io/news)
 
-<details>
-  <summary><strong>Past News</strong></summary>
-   [past news](https://panweihit.github.io/news)
-</details>
 
