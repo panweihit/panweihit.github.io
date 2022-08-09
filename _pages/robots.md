@@ -4,6 +4,12 @@ title: "Robots"
 author_profile: true
 ---
 
+This is a repository of the robots we use to test our algorithms.
+
+# Check our the [YouTube channel](https://www.youtube.com/user/panweihit)
+
+# Robots
+
 ## [Quadrotor](https://panweihit.github.io/robots/quadrotor)
 
 ## [Unmanned Ground Vehicle](https://panweihit.github.io/robots/ugv)
