@@ -32,17 +32,17 @@ author_profile: true
 <details>
   <summary><srong>Past Members</strong></summary>
 
-## Past PostDoc
+### Past PostDoc
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
 * [Prof Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
 * [Dr Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Assistant Professor at Sun Yat-sen University, China
 
-## Past PhD Students
+### Past PhD Students
 * [Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now PostDoc at Univesrity of Manchester, UK.
 * [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (with Prof. Lixian Zhang), now at ETH Zürich, Switzerland.
 * [Prof Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
 
-## Past Master Students
+### Past Master Students
 * Coen van Gruijthuijsen, Thesis: [Automated Machine Learning in Medical Image Segmentation](https://repository.tudelft.nl/islandora/object/uuid:cd200c93-3185-4c5b-a3ef-4113b997cee1?collection=education)
 * Zixuan Wan, Thesis: [Bayesian Deep Learning for Distilling Physical Laws from Videos](https://repository.tudelft.nl/islandora/object/uuid%3A7164f6d2-d8af-4d8d-a46d-62a9024895da)
 * Prakash Radhakrishnan, Thesis: [Robust map building for robot navigation in dynamic environments](https://repository.tudelft.nl/islandora/object/uuid%3A0a10f475-5a59-4ad7-9966-24f0f675f863)
