@@ -6,7 +6,7 @@ author_profile: true
 
 This is a repository of the robots we use to test our algorithms.
 
-# Check out [YouTube channel](https://www.youtube.com/user/panweihit)
+# [YouTube channel](https://www.youtube.com/user/panweihit)
 
 # Robots
 
