@@ -4,7 +4,7 @@ permalink: /robots/manipulator
 collection: portfolio
 ---
 
-<h5>We use Franka Emika Panda manipular in the department's robot lab, by courtersy of [Jens Kober](http://www.jenskober.de/).</h5>
+We use Franka Emika Panda manipular in the department's robot lab, by courtersy of [Jens Kober](http://www.jenskober.de/).
 
 <img src='/images/franka.jpeg'>
 
