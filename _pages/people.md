@@ -34,21 +34,20 @@ author_profile: true
 <details>
   <summary><strong>Past Members</strong></summary><p>
   
-  
 
-## Past PostDoc
+<h3>Past PostDoc</h3>
   
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
 * [Prof Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
 * [Dr Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Assistant Professor at Sun Yat-sen University, China
 
-## Past PhD Students
+<h3>Past PhD Students</h3>
   
 * [Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now PostDoc at Univesrity of Manchester, UK.
 * [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (with Prof. Lixian Zhang), now at ETH Zürich, Switzerland.
 * [Prof Chengwei Wu](https://www.researchgate.net/profile/Chengwei_Wu), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
 
-## Past Master Students
+<h3>Past Master Students</h3>
   
 * Coen van Gruijthuijsen, Thesis: [Automated Machine Learning in Medical Image Segmentation](https://repository.tudelft.nl/islandora/object/uuid:cd200c93-3185-4c5b-a3ef-4113b997cee1?collection=education)
 * Zixuan Wan, Thesis: [Bayesian Deep Learning for Distilling Physical Laws from Videos](https://repository.tudelft.nl/islandora/object/uuid%3A7164f6d2-d8af-4d8d-a46d-62a9024895da)
