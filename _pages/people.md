@@ -3,18 +3,21 @@ permalink: /people/
 title: "People"
 author_profile: true
 ---
-## PostDoc
+### PostDoc
 
-## Engineer
+### Engineer
 * [Rick Staa](https://www.linkedin.com/in/rickstaa/?originalSubdomain=nl)
 
-## PhD Candidates
+### PhD Candidates
 
+* Yang Li
+* Fatih Dursun 
+* Chuhan Zhang
 * [Yujie Tang](https://scholar.google.com/citations?user=wCc_YsUAAAAJ&hl=zh-CN)
-* [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en), (With Prof. Naiming Qi)
+* [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) (With Prof. Naiming Qi)
 
 
-## Master Students
+### Master Students
 * Rick Staa
 * Lars Lipman
 * Mohamed Madi 
@@ -26,6 +29,8 @@ author_profile: true
 * Serkan Şimşek
 * Yuxiang Liu
 
+<details>
+  <summary>Past Members</summary>
 
 ## Past PostDoc
 * [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
@@ -59,5 +64,5 @@ Thesis: [Accelerating Neural Networks Embedded on a Microcomputer Trained on KIT
 Thesis: [Model Free Reinforcement Learning with Stability Guarantee](https://repository.tudelft.nl/islandora/object/uuid%3Adde4e58f-e109-4e7f-8ecb-ed1734294e5c)
 * Minghao Yang, Thesis: [Efficient Neural Network Architecture Search](https://repository.tudelft.nl/islandora/object/uuid%3A9985c543-cb4e-4259-b6f8-b44ba433f1e3)
 
-
+</details>
  
