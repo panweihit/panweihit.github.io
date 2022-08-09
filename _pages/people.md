@@ -10,11 +10,11 @@ author_profile: true
 
 ### PhD Candidates
 
-* Yang Li
-* Fatih Dursun 
-* Chuhan Zhang
-* [Yujie Tang](https://scholar.google.com/citations?user=wCc_YsUAAAAJ&hl=zh-CN)
-* [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) (With Prof. Naiming Qi)
+* Yang Li, Multiagent Reinforcement Learning
+* Fatih Dursun, Safe Reinforcement Learning
+* Chuhan Zhang, Spiking Neural Networks
+* [Yujie Tang](https://scholar.google.com/citations?user=wCc_YsUAAAAJ&hl=zh-CN), Robot Dynamics and Learning
+* [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) (With Prof. Naiming Qi), Safe Reinforcement Learning
 
 
 ### Master Students
