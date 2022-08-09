@@ -15,8 +15,9 @@ I have a broad interest in robot control using Bayesian machine learning and the
 <span style="color:red">**Multiple fully-funded PhD scholarships are available in Manchester.**</span>
 
 
+
 <details>
-  <summary><strong>Past News</strong></summary>
+  <summary><strong>Past News</strong></summary><p>
     
 * May 12, My first PhD student, [Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ) sucessfuly defended his PhD thesis "[Bayesian Deep Learning for System Identification
 ](https://www.narcis.nl/publication/RecordID/oai:tudelft.nl:uuid%3A94b0cdd5-280b-4afb-a210-f19ecf12cf66)". Huge congratulations, Dr Zhou!  
@@ -64,5 +65,5 @@ I have a broad interest in robot control using Bayesian machine learning and the
 * December 21, 2018. Our paper [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7) accepted to ICLR 2019!
 * May 1, 2018. Start my research group in the Department of Cognitive Robotics, TU Delft. Thanks to the amazing colleagues in [DJI](http://www.dji.com)! Thanks [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen)! 
 
-</details>
+</p></details>
 
