@@ -37,9 +37,9 @@ author_profile: true
 
 <h3>Past PostDoc</h3>
   
-* [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
-* [Prof Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
-* [Dr Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Assistant Professor at Sun Yat-sen University, China
+- [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China </br>
+- [Prof Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China </br>
+- [Prof Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Assistant Professor at Sun Yat-sen University, China</br>
 
 <h3>Past PhD Students</h3>
   
