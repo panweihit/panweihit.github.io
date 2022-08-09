@@ -1,8 +1,10 @@
 ---
 title: "Space Robots"
-excerpt: ""
+permalink: /robots/space
 collection: portfolio
 ---
+
+
 
 ###  Bayesian Reinforcement Learning for Control
 
