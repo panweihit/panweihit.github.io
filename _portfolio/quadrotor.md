@@ -1,9 +1,8 @@
 ---
 title: "Quadrotor"
-excerpt: ""
+permalink: /robots/quadrotor
 collection: portfolio
 ---
-
 
 ### 2D Navigation
 [![Watch the video](/images/_drone_2d.png)](https://www.youtube.com/watch?v=2-gyxPqSGOc)
