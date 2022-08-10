@@ -22,7 +22,7 @@ author_profile: true
 - Chuhan Zhang 
   - Spiking Neural Networks
   - [Delft Self AI Lab](https://www.tudelft.nl/ai/self-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=SELFLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50)
-  - Co-supervised with [Cosimo Della Santina](https://cosimodellasantina.eu/)
+  - Co-supervised with [Rajendra Bishnoi](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/computer-engineering/staff/rajendra-bishnoi) and [Cosimo Della Santina](https://cosimodellasantina.eu/)
 - [Yujie Tang](https://scholar.google.com/citations?user=wCc_YsUAAAAJ&hl=zh-CN)
   - Robot Dynamics and Learning
   - Co-supervised with [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d)
