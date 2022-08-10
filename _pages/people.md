@@ -19,6 +19,9 @@ author_profile: true
 - Fatih Dursun 
   - Safe Reinforcement Learning
   - Co-supervised with [Simon Watson](https://www.research.manchester.ac.uk/portal/simon.watson.html) and [Bruno Adorno](https://www.research.manchester.ac.uk/portal/bruno.adorno.html)
+- Rifny Mifta Rachman
+  - Reinforcement Learning and Multi-objective Optimization
+  -  - Co-supervised with [Richard Allmendinger](https://www.research.manchester.ac.uk/portal/richard.allmendinger.html) and [Pradyumn Shukla](https://www.research.manchester.ac.uk/portal/pradyumn.shukla.html)
 - Chuhan Zhang 
   - Spiking Neural Networks
   - [Delft Self AI Lab](https://www.tudelft.nl/ai/self-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=SELFLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50)
