@@ -11,6 +11,7 @@ author_profile: true
 ### PhD Candidates
 
 * Yang Li, Multiagent Reinforcement Learning
+* Xiaomei Mi, Inverse Reinforcement Learning
 * Fatih Dursun, Safe Reinforcement Learning
 * Chuhan Zhang, Spiking Neural Networks
 * [Yujie Tang](https://scholar.google.com/citations?user=wCc_YsUAAAAJ&hl=zh-CN), Robot Dynamics and Learning
