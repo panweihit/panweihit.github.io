@@ -10,15 +10,16 @@ author_profile: true
 
 ### PhD Candidates
 
-- Yang Li (with Naiming Qi), 
+- Yang Li 
   - Multiagent Reinforcement Learning
   - Co-supervised with [Angelo Cangelosi](https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html)
 - Xiaomei Mi
   - Inverse Reinforcement Learning
   - Co-supervised with [Samuel Kaski](https://www.research.manchester.ac.uk/portal/samuel.kaski.html)
-- Fatih Dursun, Safe Reinforcement Learning
+- Fatih Dursun 
+  - Safe Reinforcement Learning
   - Co-supervised with [Simon Watson](https://www.research.manchester.ac.uk/portal/simon.watson.html) and [Bruno Adorno](https://www.research.manchester.ac.uk/portal/bruno.adorno.html)
-- Chuhan Zhang, 
+- Chuhan Zhang 
   - Spiking Neural Networks
   - [Delft Self AI Lab](https://www.tudelft.nl/ai/self-lab?languageSelect=UK&searchCriteria[0][key]=keywords&searchCriteria[0][values][]=SELFLab&searchCriteria[1][key]=Resultsperpage&searchCriteria[1][values][]=50)
   - Co-supervised with [Cosimo Della Santina](https://cosimodellasantina.eu/)
