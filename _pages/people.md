@@ -11,6 +11,9 @@ author_profile: true
 - Xiaomei Mi
   - Inverse Reinforcement Learning
   - Co-supervised with [Samuel Kaski](https://www.research.manchester.ac.uk/portal/samuel.kaski.html)
+- Luke Glover
+  - Human-in-the-loop Learning
+  - Co-supervised with [Samuel Kaski](https://www.research.manchester.ac.uk/portal/samuel.kaski.html)
 - Fatih Dursun 
   - Safe Reinforcement Learning
   - Co-supervised with [Simon Watson](https://www.research.manchester.ac.uk/portal/simon.watson.html) and [Bruno Adorno](https://www.research.manchester.ac.uk/portal/bruno.adorno.html)
