@@ -26,10 +26,7 @@ author_profile: true
   - Co-supervised with [Rajendra Bishnoi](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/computer-engineering/staff/rajendra-bishnoi) and [Cosimo Della Santina](https://www.tudelft.nl/staff/c.dellasantina/?cHash=6a7f063abd53b619a886cf2f9c6e06be)
 - [Yujie Tang](https://scholar.google.com/citations?user=wCc_YsUAAAAJ&hl=zh-CN)
   - Robot Dynamics and Learning
-  - Co-supervised with [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d)
-- [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) 
-  - Safe Reinforcement Learning
-  - Co-supervised with 齐乃明
+  - Co-supervised with [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash= 41274e0e3907f9c9121d467c295c6c4d)
 
 
 ### Master Students
@@ -40,6 +37,16 @@ author_profile: true
 * [Veronika Bojtár](https://www.linkedin.com/in/veronika-bojt%C3%A1r-61b87a15b/?originalSubdomain=hu)
 * [Shaohang Han](https://www.linkedin.com/in/shaohang-han-970747192/?originalSubdomain=cn)
 * Yuxiang Liu
+
+### Visiting students 
+
+- [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) 
+  - Harbin Institute of Technology, China
+  - Co-supervised with 齐乃明
+
+- Qingyang Song
+  - Shanghai Jiao Tong University, China
+  - Co-supervised with [Weinan Zhang](https://wnzhang.net/)
 
 
 
