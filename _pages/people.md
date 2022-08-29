@@ -31,7 +31,6 @@ author_profile: true
 
 ### Master Students
 * [Rick Staa](https://www.linkedin.com/in/rickstaa/?originalSubdomain=nl)
-* [Lars Lipman](https://worldrowing.com/athlete/laurentius-lipman?id=55262)
 * [Mohamed Madi](https://www.linkedin.com/in/mohamed-madi-8371a8140/?originalSubdomain=ae) 
 * [Susan Portters](https://www.linkedin.com/in/susan-potters-6a2609176/?originalSubdomain=nl)
 * [Veronika Bojtár](https://www.linkedin.com/in/veronika-bojt%C3%A1r-61b87a15b/?originalSubdomain=hu)
