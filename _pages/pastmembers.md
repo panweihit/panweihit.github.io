@@ -18,6 +18,8 @@ author_profile: true
 
 <h3>Past Master Students</h3>
   
+* [Lars Lipman](https://worldrowing.com/athlete/laurentius-lipman?id=55262), Thesis: [Grasp-RCNN for
+a two-fingered pinch-gripper: A multiple RCNN approach](https://repository.tudelft.nl/islandora/object/uuid%3A0ae63374-35c0-4455-99f8-6464e91e4710) 
 * Coen van Gruijthuijsen, Thesis: [Automated Machine Learning in Medical Image Segmentation](https://repository.tudelft.nl/islandora/object/uuid:cd200c93-3185-4c5b-a3ef-4113b997cee1?collection=education)
 * Zixuan Wan, Thesis: [Bayesian Deep Learning for Distilling Physical Laws from Videos](https://repository.tudelft.nl/islandora/object/uuid%3A7164f6d2-d8af-4d8d-a46d-62a9024895da)
 * Prakash Radhakrishnan, Thesis: [Robust map building for robot navigation in dynamic environments](https://repository.tudelft.nl/islandora/object/uuid%3A0a10f475-5a59-4ad7-9966-24f0f675f863)
