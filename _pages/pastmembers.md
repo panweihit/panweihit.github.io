@@ -18,7 +18,7 @@ author_profile: true
 
 <h3>Past Master Students</h3>
 
-* Antonie Grauss, Thesis: [Heuristics-based causal discovery: Discovering causal relations through heuristics-based action planning and dynamical search space adjustment](https://repository.tudelft.nl/islandora/object/uuid%3A83d273d0-f496-421a-a74d-1656a327ec25)
+* Antonie Grauss, Thesis with Cum Laude: [Heuristics-based causal discovery: Discovering causal relations through heuristics-based action planning and dynamical search space adjustment](https://repository.tudelft.nl/islandora/object/uuid%3A83d273d0-f496-421a-a74d-1656a327ec25)
 * [Mohamed Madi](https://www.linkedin.com/in/mohamed-madi-8371a8140/?originalSubdomain=ae), Thesis: [The Effects of Entropy Regularization and Lyapunov Stability Constraint on Multi-Agent Reinforcement Learning for Autonomous Driving](https://repository.tudelft.nl/islandora/object/uuid%3A743d8142-9d59-4c97-a8da-2c0d734c8ebc)
 * [Lars Lipman](https://worldrowing.com/athlete/laurentius-lipman?id=55262), Thesis: [Grasp-RCNN for
 a two-fingered pinch-gripper: A multiple RCNN approach](https://repository.tudelft.nl/islandora/object/uuid%3A0ae63374-35c0-4455-99f8-6464e91e4710) 
