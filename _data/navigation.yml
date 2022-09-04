@@ -15,8 +15,8 @@ main:
   - title: "Software"
     url: /software/ 
     
- # - title: "Talks"
- #   url: /talks/  
+  - title: "Openning"
+    url: /openning/  
         
  #  - title: "Blog Posts"
  #    url: /year-archive/
