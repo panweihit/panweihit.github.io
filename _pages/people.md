@@ -34,6 +34,7 @@ author_profile: true
 * [Susan Portters](https://www.linkedin.com/in/susan-potters-6a2609176/?originalSubdomain=nl)
 * [Veronika Bojtár](https://www.linkedin.com/in/veronika-bojt%C3%A1r-61b87a15b/?originalSubdomain=hu)
 * [Shaohang Han](https://www.linkedin.com/in/shaohang-han-970747192/?originalSubdomain=cn)
+* [Roy Vorster](https://www.linkedin.com/in/roy-vorster-8a00b1133/)
 * Yuxiang Liu
 
 ### Visiting students 
