@@ -8,9 +8,6 @@ author_profile: true
 - Yang Li 
   - Multiagent Reinforcement Learning
   - Co-supervised with [Angelo Cangelosi](https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html)
-- Xiaomei Mi
-  - Inverse Reinforcement Learning
-  - Co-supervised with [Samuel Kaski](https://www.research.manchester.ac.uk/portal/samuel.kaski.html)
 - Luke Glover
   - Human-in-the-loop Learning
   - Co-supervised with [Samuel Kaski](https://www.research.manchester.ac.uk/portal/samuel.kaski.html)
@@ -36,18 +33,6 @@ author_profile: true
 * [Shaohang Han](https://www.linkedin.com/in/shaohang-han-970747192/?originalSubdomain=cn)
 * [Roy Vorster](https://www.linkedin.com/in/roy-vorster-8a00b1133/)
 * Yuxiang Liu
-
-### Visiting students 
-
-- [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) 
-  - Harbin Institute of Technology, China
-  - Co-supervised with 齐乃明
-
-- Qingyang Song
-  - Shanghai Jiao Tong University, China
-  - Co-supervised with [Weinan Zhang](https://wnzhang.net/)
-
-
 
 ### [Past Members](https://panweihit.github.io/people/past)
 
