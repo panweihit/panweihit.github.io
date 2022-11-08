@@ -13,6 +13,11 @@ author_profile: true
 <h3>Past PhD Students</h3>
   
 * [Dr Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now PostDoc at Univesrity of Manchester, UK.
+
+<h3>Past Visiting students </h3>
+
+* [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) 
+* Qingyang Song
 * [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (with Prof. Lixian Zhang), now at ETH Zürich, Switzerland.
 * [Prof Chengwei Wu](http://homepage.hit.edu.cn/wuchengwei), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
 
@@ -42,3 +47,4 @@ Thesis: [Accelerating Neural Networks Embedded on a Microcomputer Trained on KIT
 * Yuan Tian,
 Thesis: [Model Free Reinforcement Learning with Stability Guarantee](https://repository.tudelft.nl/islandora/object/uuid%3Adde4e58f-e109-4e7f-8ecb-ed1734294e5c)
 * Minghao Yang, Thesis: [Efficient Neural Network Architecture Search](https://repository.tudelft.nl/islandora/object/uuid%3A9985c543-cb4e-4259-b6f8-b44ba433f1e3)
+ 
