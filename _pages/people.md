@@ -8,7 +8,7 @@ author_profile: true
 - Yang Li 
   - Multiagent Reinforcement Learning
   - Co-supervised with [Angelo Cangelosi](https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html)
-- Luke Glover
+- Emily Glover
   - Human-in-the-loop Learning
   - Co-supervised with [Samuel Kaski](https://www.research.manchester.ac.uk/portal/samuel.kaski.html)
 - Fatih Dursun 
