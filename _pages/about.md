@@ -14,7 +14,7 @@ I have a broad interest in robot control using Bayesian machine learning and the
 
 **Opennings for PostDoc, PhD and visitor.** Please [email us](wei.pan@manchester.ac.uk) if you wish to join my group. Find [more information](https://panweihit.github.io/openning/) about funding oppurtunities. 
 
-**Two fully funded positions are avilable.** One is on [MARL for Drone](https://www.findaphd.com/phds/project/a-star-human-visual-recognition-inspired-multi-agent-reinforcement-learning-for-drone-search-and-rescue-in-complex-environment/?p155665) (for UK/Overseas studens) and [Learning-based Control](https://www.findaphd.com/phds/project/learning-based-approach-for-applied-nonlinear-control/?p155794) (for UK students).
+**Two fully funded positions are avilable.** One is on [MARL for Drone](https://www.findaphd.com/phds/project/a-star-human-visual-recognition-inspired-multi-agent-reinforcement-learning-for-drone-search-and-rescue-in-complex-environment/?p155665) (for UK/Overseas students) and [Learning-based Control](https://www.findaphd.com/phds/project/learning-based-approach-for-applied-nonlinear-control/?p155794) (for UK students).
 
 **[Past News](https://panweihit.github.io/news)**
 
