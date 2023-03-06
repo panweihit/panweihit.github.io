@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Current Teaching at Manchester
-* [COMP24112]([https://studentnet.cs.manchester.ac.uk/ugt/2021/COMP24112/syllabus/](https://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP24112&year=2022)), Machine Learning
+* [COMP24112](https://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP24112&year=2022), Machine Learning
 
 ## Past Teaching at TU Delft
 * Thesis project for Master in Robotics (past topics can be found [here](https://panweihit.github.io/people/))
