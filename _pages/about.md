@@ -12,9 +12,9 @@ I am a [Senior Lecturer](https://www.research.manchester.ac.uk/portal/wei.pan.ht
 
 I have a broad interest in robot control using Bayesian machine learning and the principles of dynamic control.
 
-**Opennings for PostDoc, PhD and visitor.** Please [email us](wei.pan@manchester.ac.uk) if you wish to join my group. Find [more information](https://panweihit.github.io/openning/) about funding oppurtunities. 
+**Openings for PostDocs, PhDs and visitors.** Please [email us](wei.pan@manchester.ac.uk) if you wish to join my group. Find [more information](https://panweihit.github.io/openning/) about funding opportunities. 
 
-**Two fully funded positions are avilable.** One is on [MARL for Drones](https://www.findaphd.com/phds/project/a-star-human-visual-recognition-inspired-multi-agent-reinforcement-learning-for-drone-search-and-rescue-in-complex-environment/?p155665) (for UK/Overseas students) and [Learning-based Control](https://www.findaphd.com/phds/project/learning-based-approach-for-applied-nonlinear-control/?p155794) (for UK students).
+**Three fopportunitiesositions are available.** One is on [MARL for Davailablettps://www.findaphd.com/phds/project/a-star-human-visual-recognition-inspired-multi-agent-reinforcement-learning-for-drone-search-and-rescue-in-complex-environment/?p155665) (for UK/Overseas students), [Learning-based Control](https://www.findaphd.com/phds/project/learning-based-approach-for-applied-nonlinear-control/?p155794) (for UK students), [RL in Complex Environment](https://www.findaphd.com/phds/project/epsrc-bae-systems-industrial-case-phd-studentship-mitigation-of-reinforcement-learning-algorithms-in-changing-environments/?p149231) (for UK/EU Students).
 
 **[Past News](https://panweihit.github.io/news)**
 
