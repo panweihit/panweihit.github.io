@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=GqryWPsAAAAJ)"
+title: "Publications [Google Scholar](https://scholar.google.com/citations?user=GqryWPsAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Wei-Pan-21)"
 permalink: /publications/
 author_profile: true
 ---
