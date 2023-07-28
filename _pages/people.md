@@ -6,23 +6,23 @@ author_profile: true
 ## PhD Candidates
 
 ### Main Supervisor
-- Yang Li
+- [Yang Li](https://liyang.page/)
 - Yiyu Jiang
-- Maytus Piriyajitakonkij
-- Hossein Abdi
-- Rishabh Dev Yadav
+- [Maytus Piriyajitakonkij](https://www.maytusp.com/)
+- [Hossein Abdi](https://www.researchgate.net/profile/Hossein-Abdi-5)
+- [Rishabh Dev Yadav](https://rishabhdevyadav.github.io/rishabhdevyadav/)
 
 ### Co-Supervisor
 - Emily Glover
-- Fatih Dursun
-- Rifny Rachman
+- [Fatih Dursun](https://scholar.google.com/citations?user=jO8N49IAAAAJ&hl=tr)
+- [Rifny Rachman](https://www.linkedin.com/in/rifny-rachman-61800548/?originalSubdomain=uk)
 
 ### Visiting Student
-- Wenhan Cao
+- [Wenhan Cao](https://scholar.google.com/citations?user=43xAy7MAAAAJ&hl=en)
 
 ### TU Delft
-- Yujie Tang
-- Chuhan Zhang
+- [Yujie Tang](https://www.tudelft.nl/staff/y.tang-6/?cHash=284c7e0d5b9bb7e8a605c3962f045448)
+- [Chuhan Zhang](https://www.linkedin.com/in/chuhan-zhang-44279b1b7/?originalSubdomain=nl)
 
 
 ## [Past Members](https://panweihit.github.io/people/past)
