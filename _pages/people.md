@@ -1,4 +1,3 @@
-![image](https://github.com/panweihit/panweihit.github.io/assets/9285453/e3fe8d09-5d41-4f5f-8810-c2f31257a8de)---
 permalink: /people/
 title: "People"
 author_profile: true
