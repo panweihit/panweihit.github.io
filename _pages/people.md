@@ -1,3 +1,4 @@
+---
 permalink: /people/
 title: "People"
 author_profile: true
@@ -24,6 +25,6 @@ author_profile: true
 - Chuhan Zhang
 
 
-### [Past Members](https://panweihit.github.io/people/past)
+## [Past Members](https://panweihit.github.io/people/past)
 
 
