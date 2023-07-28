@@ -23,6 +23,12 @@ author_profile: true
 
 <h3>Past Master Students</h3>
 
+* [Rick Staa](https://www.linkedin.com/in/rickstaa/?originalSubdomain=nl)
+* [Veronika Bojtár](https://www.linkedin.com/in/veronika-bojt%C3%A1r-61b87a15b/?originalSubdomain=hu)
+* [Shaohang Han](https://www.linkedin.com/in/shaohang-han-970747192/?originalSubdomain=cn)
+* [Roy Vorster](https://www.linkedin.com/in/roy-vorster-8a00b1133/)
+* Yuxiang Liu
+
 * Antonie Grauss, Thesis with Cum Laude: [Heuristics-based causal discovery: Discovering causal relations through heuristics-based action planning and dynamical search space adjustment](https://repository.tudelft.nl/islandora/object/uuid%3A83d273d0-f496-421a-a74d-1656a327ec25)
 * [Mohamed Madi](https://www.linkedin.com/in/mohamed-madi-8371a8140/?originalSubdomain=ae), Thesis: [The Effects of Entropy Regularization and Lyapunov Stability Constraint on Multi-Agent Reinforcement Learning for Autonomous Driving](https://repository.tudelft.nl/islandora/object/uuid%3A743d8142-9d59-4c97-a8da-2c0d734c8ebc)
 * [Lars Lipman](https://worldrowing.com/athlete/laurentius-lipman?id=55262), Thesis: [Grasp-RCNN for
