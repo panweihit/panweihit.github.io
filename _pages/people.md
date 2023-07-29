@@ -14,10 +14,10 @@ author_profile: true
 
 ### Co-Supervisor
 - Emily Glover
-- Satya Prakash Dash
+- [Satya Prakash Dash](https://scholar.google.com/citations?user=xMJKojkAAAAJ)
 - [Fatih Dursun](https://scholar.google.com/citations?user=jO8N49IAAAAJ&hl=tr)
 - [Rifny Rachman](https://www.linkedin.com/in/rifny-rachman-61800548/?originalSubdomain=uk)
-- Khalid Dandago
+- [Khalid Dandago](https://www.linkedin.com/in/khalid-dandago-4583b1125/?originalSubdomain=ng)
 
 ### Visiting Student
 - [Wenhan Cao](https://scholar.google.com/citations?user=43xAy7MAAAAJ&hl=en)
