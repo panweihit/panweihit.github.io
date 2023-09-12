@@ -17,6 +17,10 @@ I have a broad interest in robot control using Bayesian machine learning and the
 <!--- **Three PhD scholarships are available.** (1) [MARL for Drones](https://www.findaphd.com/phds/project/a-star-human-visual-recognition-inspired-multi-agent-reinforcement-learning-for-drone-search-and-rescue-in-complex-environment/?p155665) (for UK/Overseas students), (2) [Learning-based Control](https://www.findaphd.com/phds/project/learning-based-approach-for-applied-nonlinear-control/?p155794) (for UK students), (3) [RL in Complex Environment](https://www.findaphd.com/phds/project/epsrc-bae-systems-industrial-case-phd-studentship-mitigation-of-reinforcement-learning-algorithms-in-changing-environments/?p149231) (for UK/EU Students).
 --->
 
+
+**Reading group on Large Language Model & Human-Robots Collaboration.** Visit [reading group website](https://liyang.page/activities/2023LLM_Robotics) and drop an email to [Yang Li](yang.li-4@manchester.ac.uk) if you are interested in reading papers with us.
+
+
 **[Past News](https://panweihit.github.io/news)**
 
 
