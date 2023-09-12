@@ -18,7 +18,7 @@ I have a broad interest in robot control using Bayesian machine learning and the
 --->
 
 
-**Reading group on Large Language Model & Human-Robots Collaboration.** Visit [reading group website](https://liyang.page/activities/2023LLM_Robotics) and drop an email to [Yang Li](yang.li-4@manchester.ac.uk) if you are interested in reading papers with us.
+**Reading group on Large Language Model & Human-Robots Collaboration.** Visit [reading group website](https://liyang.page/reading-party/) and drop an email to [Yang Li](yang.li-4@manchester.ac.uk) if you are interested in reading papers with us.
 
 
 **[Past News](https://panweihit.github.io/news)**
