@@ -9,7 +9,7 @@ author_profile: true
 - [Yang Li](https://liyang.page/)
 - Yiyu Jiang
 - [Maytus Piriyajitakonkij](https://www.maytusp.com/)
-- [Hossein Abdi](https://researchportal.tuni.fi/fi/persons/hossein-abdi)
+- [Hossein Abdi](https://www.linkedin.com/in/hossein-abdi-b7389a116/)
 - [Rishabh Dev Yadav](https://rishabhdevyadav.github.io/rishabhdevyadav/)
 
 ### Co-Supervisor
