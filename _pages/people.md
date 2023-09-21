@@ -18,6 +18,7 @@ author_profile: true
 - [Fatih Dursun](https://scholar.google.com/citations?user=jO8N49IAAAAJ&hl=tr)
 - [Rifny Rachman](https://www.linkedin.com/in/rifny-rachman-61800548/?originalSubdomain=uk)
 - [Khalid Dandago](https://www.linkedin.com/in/khalid-dandago-4583b1125/?originalSubdomain=ng)
+- [Marcos Negre Saura](https://www.linkedin.com/in/marcos-negre-saura-847b08149)
 
 ### Visiting Student
 - [Wenhan Cao](https://scholar.google.com/citations?user=43xAy7MAAAAJ&hl=en)
