@@ -1,10 +1,10 @@
 ---
-permalink: /openning/
-title: "Openning"
+permalink: /opening/
+title: "Opening"
 author_profile: true
 ---
 
-Interested in working with us in Robotics, Machine Leanring and Control at the Department of Computer Science of The University of Manchester? There are always positions available for outstanding prospective PhD students and postdoctoral staff. Please [email us](wei.pan@manchester.ac.uk) if you wish to join the Pan Group.
+Interested in working with us in Robotics, Machine Learning and Control at the Department of Computer Science, The University of Manchester? There are always positions available for outstanding prospective PhD students and postdoctoral staff. Please [email us](wei.pan@manchester.ac.uk) if you wish to join the Pan Group.
 
 ### PostDoc Opportunities
 - If you would like to apply for a PostDoctoral Fellowship to work in my group, this [list of PostDoctoral Fellowships](https://www.se.manchester.ac.uk/research/support/fellowships/) might be useful. 
@@ -12,7 +12,7 @@ Interested in working with us in Robotics, Machine Leanring and Control at the D
 
 ### PhD Scholarships
 
-Fully funded PhD positions are always available at the Department of Computer Science, The University of Manchester.
+Fully funded PhD positions are available at the Department of Computer Science, The University of Manchester.
  
 - [President's Doctoral Scholar Award](https://www.presidentsaward.manchester.ac.uk/)
 - [Dean’s Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/funding/deans-doctoral-scholarship/)
