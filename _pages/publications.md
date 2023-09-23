@@ -32,7 +32,7 @@ Ye Yuan, Xiuchuan Tang, Wei Zhou, <b>Wei Pan</b>, Xiuting Li, Hai-Tao Zhang, Han
 Hongpeng Zhou, Minghao Yang, Jun Wang and <b>Wei Pan</b>.<br>
 <i>International Conference on Machine Learning (ICML).</i> <b>2019</b>.
 
-<b>[Actor-critic reinforcement learning for control with stability guarantee](https://ieeexplore.ieee.org/document/9146733)</b><br>
+<b>[Actor-Critic Reinforcement Learning for Control with Stability Guarantee](https://ieeexplore.ieee.org/document/9146733)</b><br>
 Minghao Han, Lixian Zhang, Jun Wang and <b>Wei Pan</b>.<br>
 <i>IEEE Robotics and Automation Letters.</i> <b>2020</b>.
 
@@ -48,7 +48,7 @@ Hongpeng Zhou, Chahine Ibrahim, Wei Xing Zheng, and <b>Wei Pan</b>.<br>
 Desong Du, Shaohang Han, Naiming Qi, Haitham Bou Ammar, Jun Wang, and <b>Wei Pan</b>.<br>
 <i>IEEE International Conference on Robotics and Automation (ICRA)</i> <b>2023</b>.
 
-<b>[Sparse Bayesian Deep Learning for Dynamic System Identification](https://www.sciencedirect.com/science/article/pii/S000510982200348X)</b><br>
+<b>[Tackling cooperative incompatibility for zero-shot human-ai coordination.](https://proceedings.mlr.press/v202/li23au)</b><br>
 Yang Li, Shao Zhang, Jichen Sun, Wenhao Zhang, Yali Du, Ying Wen, Xinbing Wang, and <b>Wei Pan</b>.<br>
 <i>International Conference on Machine Learning (ICML).</i> <b>2023</b>.
 
