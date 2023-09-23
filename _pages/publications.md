@@ -17,7 +17,7 @@ author_profile: true
 
 <b>[Online fault diagnosis for nonlinear power systems](https://www.sciencedirect.com/science/article/pii/S0005109815000941)</b><br>
 <b>Wei Pan</b>, Ye Yuan,  Henrik Sandberg, Jorge Gonçalves, and Guy-Bart Stan.<br>
-<i>IEEE Transactions on Automatic Control.</i> <b>2015</b>.
+<i>Automatica.</i> <b>2015</b>.
 
 
 <b>[Towards Accurate Binary Convolutional Neural Network](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)</b><br>
