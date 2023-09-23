@@ -28,14 +28,13 @@ Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
 Ye Yuan, Xiuchuan Tang, Wei Zhou, <b>Wei Pan</b>, Xiuting Li, Hai-Tao Zhang, Han Ding and Jorge Gonçalves.<br>
 <i>Nature Communications.</i> <b>2019</b>.
 
+<b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](http://proceedings.mlr.press/v97/zhou19e.html)</b><br>
+Hongpeng Zhou, Minghao Yang, Jun Wang and <b>Wei Pan</b>.<br>
+<i>International Conference on Machine Learning (ICML).</i> <b>2019</b>.
 
 <b>[Actor-critic reinforcement learning for control with stability guarantee](https://ieeexplore.ieee.org/document/9146733)</b><br>
 Minghao Han, Lixian Zhang, Jun Wang and <b>Wei Pan</b>.<br>
 <i>IEEE Robotics and Automation Letters.</i> <b>2020</b>.
-
-<b>[BayesNAS: A Bayesian Approach for Neural Architecture Search](http://proceedings.mlr.press/v97/zhou19e.html)</b><br>
-Hongpeng Zhou, Minghao Yang, Jun Wang and <b>Wei Pan</b>.<br>
-<i>International Conference on Machine Learning.</i> <b>ICML 2019</b>.
 
 <b>[Reinforcement Learning Control of Constrained Dynamic Systems with Uniformly Ultimate Boundedness Stability Guarantee](https://www.sciencedirect.com/science/article/pii/S0005109821002090#!)</b><br>
 Minghao Han, Yuan Tian, Lixian Zhang, Jun Wang and <b>Wei Pan</b>.<br>
