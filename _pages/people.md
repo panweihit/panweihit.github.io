@@ -28,7 +28,7 @@ author_profile: true
 
 ### TU Delft
 - [Yujie Tang](https://www.tudelft.nl/staff/y.tang-6/?cHash=284c7e0d5b9bb7e8a605c3962f045448) (with [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d))
-- [Chuhan Zhang](https://www.linkedin.com/in/chuhan-zhang-44279b1b7/?originalSubdomain=nl) (with [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d) and [Cosimo Della Santina](https://www.tudelft.nl/en/staff/c.dellasantina/?cHash=6a7f063abd53b619a886cf2f9c6e06be))
+- [Chuhan Zhang](https://www.linkedin.com/in/chuhan-zhang-44279b1b7/?originalSubdomain=nl) (with [Cosimo Della Santina](https://www.tudelft.nl/en/staff/c.dellasantina/?cHash=6a7f063abd53b619a886cf2f9c6e06be) and [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d))
 
 
 ## [Past Members](https://panweihit.github.io/people/past)
