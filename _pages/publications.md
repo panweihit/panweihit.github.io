@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-I have published papers in major venues spanning several areas: Control (e.g., IEEE TAC, Automatica), Machine Learning (e.g., NeurIPS, ICML, ICLR), and Robotics (e.g., IEEE TRO, IEEE RAL, CoRL, ICRA, IROS).
+I publish and review papers in major venues spanning several areas: Control (e.g., IEEE TAC, Automatica), Machine Learning (e.g., NeurIPS, ICML, ICLR), and Robotics (e.g., IEEE TRO, IEEE RAL, CoRL, ICRA, IROS).
 
 ## PhD Thesis
 <b>[Bayesian Learning for Nonlinear System Identification](http://panweihit.github.io/publications/thesis)</b><br>
