@@ -44,7 +44,7 @@ Minghao Han, Yuan Tian, Lixian Zhang, Jun Wang and <b>Wei Pan</b>.<br>
 Hongpeng Zhou, Chahine Ibrahim, Wei Xing Zheng, and <b>Wei Pan</b>.<br>
 <i>Automatica.</i> <b>2022</b>.
 
-<b>[Sparse Bayesian Deep Learning for Dynamic System Identification](https://www.sciencedirect.com/science/article/pii/S000510982200348X)</b><br>
+<b>[Reinforcement Learning for Safe Robot Control using Control Lyapunov Barrier Functions](https://arxiv.org/abs/2305.09793)</b><br>
 Desong Du, Shaohang Han, Naiming Qi, Haitham Bou Ammar, Jun Wang, and <b>Wei Pan</b>.<br>
 <i>IEEE International Conference on Robotics and Automation (ICRA)</i> <b>2023</b>.
 
