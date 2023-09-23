@@ -12,7 +12,7 @@ Interested in working with us in Robotics, Machine Learning and Control at the D
 
 ### PhD Scholarships
 
-Fully funded PhD positions are available at the Department of Computer Science, The University of Manchester.
+Fully-funded and self-funded PhD positions are available at the Department of Computer Science, The University of Manchester.
  
 - [President's Doctoral Scholar Award](https://www.presidentsaward.manchester.ac.uk/)
 - [Dean’s Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/funding/deans-doctoral-scholarship/)
