@@ -23,6 +23,8 @@ author_profile: true
 
 ### Visiting Student
 - [Wenhan Cao](https://scholar.google.com/citations?user=43xAy7MAAAAJ&hl=en)
+- Xue Liu
+- Yuwei Liu
 
 ### TU Delft
 - [Yujie Tang](https://www.tudelft.nl/staff/y.tang-6/?cHash=284c7e0d5b9bb7e8a605c3962f045448)
