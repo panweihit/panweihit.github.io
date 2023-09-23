@@ -22,7 +22,7 @@ author_profile: true
 
 <b>[Towards Accurate Binary Convolutional Neural Network](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)</b><br>
 Xiaofan Lin, Cong Zhao, and <b>Wei Pan</b>.<br>
-<i>Conference on Neural Information Processing Systems.</i> <b>NeurIPS 2017</b>.
+<i>Conference on Neural Information Processing Systems (NeurIPS).</i> <b>2017</b>.
 
 <b>[Data Driven Discovery of Cyber Physical Systems](https://www.nature.com/articles/s41467-019-12490-1)</b><br>
 Ye Yuan, Xiuchuan Tang, Wei Zhou, <b>Wei Pan</b>, Xiuting Li, Hai-Tao Zhang, Han Ding and Jorge Gonçalves.<br>
