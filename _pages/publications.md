@@ -50,7 +50,7 @@ Hongpeng Zhou, Chahine Ibrahim, Wei Xing Zheng, and <b>Wei Pan</b>.<br>
 Desong Du, Shaohang Han, Naiming Qi, Haitham Bou Ammar, Jun Wang, and <b>Wei Pan</b>.<br>
 <i>IEEE International Conference on Robotics and Automation (ICRA)</i> <b>2023</b>.
 
-<b>[Tackling cooperative incompatibility for zero-shot human-ai coordination.](https://proceedings.mlr.press/v202/li23au)</b><br>
+<b>[Tackling Cooperative Incompatibility for Zero-Shot Human-AI Coordination.](https://proceedings.mlr.press/v202/li23au)</b><br>
 Yang Li, Shao Zhang, Jichen Sun, Wenhao Zhang, Yali Du, Ying Wen, Xinbing Wang, and <b>Wei Pan</b>.<br>
 <i>International Conference on Machine Learning (ICML).</i> <b>2023</b>.
 
