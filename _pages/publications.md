@@ -17,7 +17,7 @@ I publish and review papers in major venues spanning several areas: Control (e.g
 <b>Wei Pan</b>, Ye Yuan, Jorge Gonçalves, and Guy-Bart Stan.<br>
 <i>IEEE Transactions on Automatic Control.</i> <b>2015</b>.
 
-<b>[Online fault diagnosis for nonlinear power systems](https://www.sciencedirect.com/science/article/pii/S0005109815000941)</b><br>
+<b>[Online Fault Diagnosis for Nonlinear Power Systems](https://www.sciencedirect.com/science/article/pii/S0005109815000941)</b><br>
 <b>Wei Pan</b>, Ye Yuan,  Henrik Sandberg, Jorge Gonçalves, and Guy-Bart Stan.<br>
 <i>Automatica.</i> <b>2015</b>.
 
