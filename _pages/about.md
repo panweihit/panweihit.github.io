@@ -14,6 +14,7 @@ I have a broad interest in robot control using Bayesian machine learning and the
 
 **Openings for PostDocs, PhDs and visitors.** Please [email us](wei.pan@manchester.ac.uk) if you wish to join my group. Find [more information](https://panweihit.github.io/opening/) about funding opportunities. 
 
+**PhD positions are available at [UKRI AI CDT in Decision Making for Complex Systems](https://www.manchester.ac.uk/discover/news/university-to-train-next-generation-of-ai-researchers-in-new-ukri-centre-for-doctoral-training/?utm_source=https%3a%2f%2femarketing.manchester.ac.uk%2fuomepscommslz%2f&utm_medium=email&utm_campaign=Beeline+3+November+2023&utm_term=%7bEmailSubjectLine%7d&utm_content=47108&gator_td=Wcf07WkLklSlpHz4Y1fJ%2fB5fBe0DDMUlJz%2f2Mv5iOSrDc6RHcNoMoAvCkrM6inmahMa87MFfrR0MDiqNa5Df%2btLrRqvykzQ9LlV61qsJn4DW8FFqeR2WshdlxykWAS%2bR4RmnTwVgiA366RISZdzhAJn%2bPJLa%2f89HVFrlue6QhSA%3d)**
 
 **Reading group on Large Language Model & Human-Robots Collaboration.** Visit [reading group website](https://liyang.page/reading-party/) and drop an email to [Yang Li](yang.li-4@manchester.ac.uk) if you are interested in reading papers with us.
 
