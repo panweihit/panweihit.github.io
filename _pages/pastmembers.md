@@ -19,7 +19,7 @@ author_profile: true
 
 * [Prof Chengwei Wu](http://homepage.hit.edu.cn/wuchengwei), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Technology, China.
 * [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) 
-* [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (with Prof. Lixian Zhang), now at ETH Zürich, Switzerland.
+* [Minghao Han](https://hithmh.github.io/MinghaoHan/), (with Prof. Lixian Zhang), now at Research Fellow at Nanyang Technological University, Singapore.
 
 
 <h3>Past Master Students</h3>
