@@ -6,20 +6,21 @@ author_profile: true
 
 <h3>Past PostDoc</h3>
   
-*  [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
+
 *  [Prof Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
-*  [Prof Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Assistant Professor at Sun Yat-sen University, China
+*  [Prof Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Associate Professor at Sun Yat-sen University, China
+*  [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
 
 <h3>Past PhD Students</h3>
   
-* [Dr Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now PostDoc at Univesrity of Manchester, UK.
+* [Dr Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now Asisstant Professor at Univesrity of Manchester, UK.
 
 <h3>Past Visiting students </h3>
 
+* [Prof Chengwei Wu](http://homepage.hit.edu.cn/wuchengwei), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Technology, China.
 * [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) 
-* Qingyang Song
 * [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=zh-CN), (with Prof. Lixian Zhang), now at ETH Zürich, Switzerland.
-* [Prof Chengwei Wu](http://homepage.hit.edu.cn/wuchengwei), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Techonology, China.
+
 
 <h3>Past Master Students</h3>
 
