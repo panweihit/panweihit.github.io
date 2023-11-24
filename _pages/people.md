@@ -26,6 +26,7 @@ author_profile: true
 - [Wenhan Cao](https://scholar.google.com/citations?user=43xAy7MAAAAJ&hl=en)
 - Xue Liu
 - Yuwei Liu
+- [Huiqian Li](https://scholar.google.com/citations?user=8RVecpEAAAAJ&hl=en)
 
 ### TU Delft
 - [Yujie Tang](https://www.tudelft.nl/staff/y.tang-6/?cHash=284c7e0d5b9bb7e8a605c3962f045448) (with [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d))
