@@ -19,6 +19,7 @@ author_profile: true
 - [Rifny Rachman](https://www.linkedin.com/in/rifny-rachman-61800548/?originalSubdomain=uk) (with [Richard Allmendinger](https://research.manchester.ac.uk/en/persons/richard.allmendinger) and [Pradyumn Shukla](https://research.manchester.ac.uk/en/persons/pradyumn.shukla))
 - [Khalid Dandago](https://www.linkedin.com/in/khalid-dandago-4583b1125/?originalSubdomain=ng) (with [Long Zhang](https://research.manchester.ac.uk/en/persons/long.zhang))
 - [Marcos Negre Saura](https://www.linkedin.com/in/marcos-negre-saura-847b08149) (with [Richard Allmendinger](https://research.manchester.ac.uk/en/persons/richard.allmendinger) and [Theodore Papamarkou](https://research.manchester.ac.uk/en/persons/theodore-papamarkou))
+- [Amr Mousa](https://www.linkedin.com/in/amousa95/) (with [Richard Allmendinger](https://research.manchester.ac.uk/en/persons/richard.allmendinger) and [Theodore Papamarkou](https://research.manchester.ac.uk/en/persons/theodore-papamarkou))
 - [Evelyn D'Elia](https://ami.iit.it/people-details/-/people/evelyn-delia) ([IIT](https://www.iit.it), with [Daniele Pucci](https://www.iit.it/people-details/-/people/daniele-pucci) and [Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi))
 
 
