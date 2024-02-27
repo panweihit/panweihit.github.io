@@ -46,13 +46,14 @@ Minghao Han, Yuan Tian, Lixian Zhang, Jun Wang and <b>Wei Pan</b>.<br>
 Hongpeng Zhou, Chahine Ibrahim, Wei Xing Zheng, and <b>Wei Pan</b>.<br>
 <i>Automatica.</i> <b>2022</b>.
 
-<b>[Reinforcement Learning for Safe Robot Control using Control Lyapunov Barrier Functions](https://arxiv.org/abs/2305.09793)</b><br>
-Desong Du, Shaohang Han, Naiming Qi, Haitham Bou Ammar, Jun Wang, and <b>Wei Pan</b>.<br>
-<i>IEEE International Conference on Robotics and Automation (ICRA)</i> <b>2023</b>.
 
 <b>[Tackling Cooperative Incompatibility for Zero-Shot Human-AI Coordination.](https://proceedings.mlr.press/v202/li23au)</b><br>
 Yang Li, Shao Zhang, Jichen Sun, Wenhao Zhang, Yali Du, Ying Wen, Xinbing Wang, and <b>Wei Pan</b>.<br>
 <i>International Conference on Machine Learning (ICML).</i> <b>2023</b>.
+
+<b>[Impact of Computation in Integral Reinforcement Learning for Continuous-Time Control]([https://arxiv.org/abs/2305.09793](https://openreview.net/pdf?id=xJEd8PkdNz))</b><br>
+Wenhan Cao and <b>Wei Pan</b>.<br>
+<i>International Conference on Learning Representations (ICLR)</i> <b>2024</b>.
 
 
 
