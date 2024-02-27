@@ -51,7 +51,7 @@ Hongpeng Zhou, Chahine Ibrahim, Wei Xing Zheng, and <b>Wei Pan</b>.<br>
 Yang Li, Shao Zhang, Jichen Sun, Wenhao Zhang, Yali Du, Ying Wen, Xinbing Wang, and <b>Wei Pan</b>.<br>
 <i>International Conference on Machine Learning (ICML).</i> <b>2023</b>.
 
-<b>[Impact of Computation in Integral Reinforcement Learning for Continuous-Time Control]([https://arxiv.org/abs/2305.09793](https://openreview.net/pdf?id=xJEd8PkdNz))</b><br>
+<b>[Impact of Computation in Integral Reinforcement Learning for Continuous-Time Control](https://openreview.net/pdf?id=xJEd8PkdNz)</b><br>
 Wenhan Cao and <b>Wei Pan</b>.<br>
 <i>International Conference on Learning Representations (ICLR)</i> <b>2024</b>.
 
