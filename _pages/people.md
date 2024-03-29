@@ -3,6 +3,9 @@ permalink: /people/
 title: "People"
 author_profile: true
 ---
+## Postdoc
+- [Jiatao Ding](https://scholar.google.it/citations?user=bGyUJrQAAAAJ&hl=en)
+
 ## PhD Candidates
 
 ### Main Supervisor
