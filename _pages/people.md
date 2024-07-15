@@ -14,6 +14,9 @@ author_profile: true
 - [Maytus Piriyajitakonkij](https://www.maytusp.com/)
 - [Hossein Abdi](https://scholar.google.com/citations?user=zF8QxsEAAAAJ&hl=en)
 - [Rishabh Dev Yadav](https://rishabhdevyadav.github.io/rishabhdevyadav/)
+- [Jiaming Chen](https://ppjmchen.github.io)
+- [Jonathan Gustafsson Frennert](https://scholar.google.com/citations?user=H2y5CNcAAAAJ&hl=en)
+- Jacob Cummins
 
 ### Co-Supervisor
 - Emily Glover (with [Samuel Kaski](https://research.manchester.ac.uk/en/persons/samuel.kaski))
