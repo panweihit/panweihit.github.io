@@ -15,7 +15,7 @@ author_profile: true
 - [Hossein Abdi](https://scholar.google.com/citations?user=zF8QxsEAAAAJ&hl=en)
 - [Rishabh Dev Yadav](https://rishabhdevyadav.github.io/rishabhdevyadav/)
 - [Jiaming Chen](https://ppjmchen.github.io)
-- [Jonathan Gustafsson Frennert](https://scholar.google.com/citations?user=H2y5CNcAAAAJ&hl=en) (2024-)
+- [Jonathan Gustafsson Frennert](https://scholar.google.com/citations?user=H2y5CNcAAAAJ&hl=en)
 - Jacob Cummins 
 - Weishu Zhan 
 - Hongyu Song 
