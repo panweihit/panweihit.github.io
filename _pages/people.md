@@ -9,17 +9,17 @@ author_profile: true
 ## PhD Candidates
 
 ### Main Supervisor
-- [Yang Li](https://liyang.page/) (2022-)
-- Yiyu Jiang (2023-)
-- [Maytus Piriyajitakonkij](https://www.maytusp.com/) (2023-)
-- [Hossein Abdi](https://scholar.google.com/citations?user=zF8QxsEAAAAJ&hl=en) (2023-)
-- [Rishabh Dev Yadav](https://rishabhdevyadav.github.io/rishabhdevyadav/) (2023-)
-- [Jiaming Chen](https://ppjmchen.github.io) (2024-)
+- [Yang Li](https://liyang.page/)
+- Yiyu Jiang
+- [Maytus Piriyajitakonkij](https://www.maytusp.com/) 
+- [Hossein Abdi](https://scholar.google.com/citations?user=zF8QxsEAAAAJ&hl=en)
+- [Rishabh Dev Yadav](https://rishabhdevyadav.github.io/rishabhdevyadav/)
+- [Jiaming Chen](https://ppjmchen.github.io)
 - [Jonathan Gustafsson Frennert](https://scholar.google.com/citations?user=H2y5CNcAAAAJ&hl=en) (2024-)
-- Jacob Cummins (2024-)
-- Weishu Zhan (2024-)
-- Hongyu Song (2024-)
-- Ze Fu (2024-)
+- Jacob Cummins 
+- Weishu Zhan 
+- Hongyu Song 
+- Ze Fu 
 
 ### Co-Supervisor
 - Emily Glover (with [Samuel Kaski](https://research.manchester.ac.uk/en/persons/samuel.kaski))
