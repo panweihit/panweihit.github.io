@@ -16,7 +16,7 @@ I have a broad interest in robot control using Bayesian machine learning and the
 
 **PhD positions are available** at [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/author/wei-pan/).
 
-**Reading group on Large Foundation Model & Human-AI Collaboration.** Visit [reading group website](https://liyang.page/reading-party/) and drop an email to [Yang Li](yang.li-4@manchester.ac.uk) if you are interested in reading papers with us.
+**Reading group on Large Foundation Model & Human-AI Collaboration.** Visit [reading group website](https://liyang.page/) and drop an email to [Yang Li](yang.li-4@manchester.ac.uk) if you are interested in reading papers with us.
 
 
 **[Past News](https://panweihit.github.io/news)**
