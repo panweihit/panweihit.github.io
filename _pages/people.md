@@ -19,7 +19,6 @@ author_profile: true
 - Jacob Cummins 
 - Weishu Zhan 
 - Hongyu Song 
-- Ze Fu 
 
 ### Co-Supervisor
 - Emily Glover (with [Samuel Kaski](https://research.manchester.ac.uk/en/persons/samuel.kaski))
