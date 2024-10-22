@@ -51,9 +51,9 @@ Hongpeng Zhou, Chahine Ibrahim, Wei Xing Zheng, and <b>Wei Pan</b>.<br>
 Yang Li, Shao Zhang, Jichen Sun, Wenhao Zhang, Yali Du, Ying Wen, Xinbing Wang, and <b>Wei Pan</b>.<br>
 <i>International Conference on Machine Learning (ICML).</i> <b>2023</b>.
 
-<b>[Impact of Computation in Integral Reinforcement Learning for Continuous-Time Control](https://openreview.net/pdf?id=xJEd8PkdNz)</b><br>
-Wenhan Cao and <b>Wei Pan</b>.<br>
-<i>International Conference on Learning Representations (ICLR)</i> <b>2024</b>.
+<b>[Computation-Aware Learning for Stable Control with Gaussian Process](https://arxiv.org/abs/2406.02272)</b><br>
+Wenhan Cao, Alexandre Capone, Rishabh Yadav, Sandra Hirche, and <b>Wei Pan</b>.<br>
+<i>Robotics: Science and Systems (RSS)</i> <b>2024</b>.
 
 
 
