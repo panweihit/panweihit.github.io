@@ -29,12 +29,10 @@ author_profile: true
 - [Marcos Negre Saura](https://www.linkedin.com/in/marcos-negre-saura-847b08149) (with [Richard Allmendinger](https://research.manchester.ac.uk/en/persons/richard.allmendinger) and [Theodore Papamarkou](https://research.manchester.ac.uk/en/persons/theodore-papamarkou))
 - [Amr Mousa](https://www.linkedin.com/in/amousa95/) (with [Richard Allmendinger](https://research.manchester.ac.uk/en/persons/richard.allmendinger) and [Theodore Papamarkou](https://research.manchester.ac.uk/en/persons/theodore-papamarkou))
 - [Evelyn D'Elia](https://ami.iit.it/people-details/-/people/evelyn-delia) ([IIT](https://www.iit.it), with [Daniele Pucci](https://www.iit.it/people-details/-/people/daniele-pucci) and [Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi))
+- Sergio Angelini (with [Alex Skillen](https://research.manchester.ac.uk/en/persons/alex.skillen) and [Mingfei Sun](https://research.manchester.ac.uk/en/persons/mingfei-sun))
 
 
 ### Visiting Student
-- [Wenhan Cao](https://scholar.google.com/citations?user=43xAy7MAAAAJ&hl=en)
-- Xue Liu
-- Yuwei Liu
 - [Huiqian Li](https://scholar.google.com/citations?user=8RVecpEAAAAJ&hl=en)
 
 ### TU Delft
