@@ -17,6 +17,7 @@ I have a broad interest in (multi)robot control using Bayesian machine learning 
 **PhD positions are available** at [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/author/wei-pan/), [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2024)
 - <span style="color:red">AI CDT Position 1: [Al-Driven Materials Design for Next-Generation Capacitors](https://www.findaphd.com/phds/project/al-driven-materials-design-for-next-generation-capacitors/?p176943)</span>
 - <span style="color:red">AI CDT Position 2: [Designing Optimal Strategies for Controlling Complex Quantum Systems](https://www.findaphd.com/phds/project/designing-optimal-strategies-for-controlling-complex-quantum-systems/?p177132)</span>
+- <span style="color:red"> Bicentenary Scholarship: [AI-Driven Robotics for Intelligent Construction: Optimising Human-Robot Collaboration through Digitalisation](https://www.findaphd.com/phds/project/fse-bicentenary-phd-ai-driven-robotics-for-intelligent-construction-optimising-human-robot-collaboration-through-digitalisation/?p179090)</span>
 
 
 **[Past News](https://panweihit.github.io/news)**
