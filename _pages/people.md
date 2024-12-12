@@ -21,6 +21,7 @@ author_profile: true
 - Hongyu Song 
 
 ### Co-Supervisor
+- [Avirup Das](https://scholar.google.com/citations?user=1XCHkskAAAAJ&hl=en) (with [Samuel Kaski](https://research.manchester.ac.uk/en/persons/samuel.kaski))
 - [Satya Prakash Dash](https://scholar.google.com/citations?user=xMJKojkAAAAJ) (with [Samuel Kaski](https://research.manchester.ac.uk/en/persons/samuel.kaski) and [Mingfei Sun](https://research.manchester.ac.uk/en/persons/mingfei-sun))
 - [Fatih Dursun](https://scholar.google.com/citations?user=jO8N49IAAAAJ&hl=tr) (with [Simon Watson](https://research.manchester.ac.uk/en/persons/simon.watson) and [Bruno Adorno](https://personalpages.manchester.ac.uk/staff/Bruno.Adorno/default.htm))
 - [Rifny Rachman](https://www.linkedin.com/in/rifny-rachman-61800548/?originalSubdomain=uk) (with [Richard Allmendinger](https://research.manchester.ac.uk/en/persons/richard.allmendinger) and [Pradyumn Shukla](https://research.manchester.ac.uk/en/persons/pradyumn.shukla))
