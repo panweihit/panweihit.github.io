@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Current Teaching at Manchester
-* [COMP24112](https://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP24112&year=2022), Machine Learning
+* [COMP24112](https://online.manchester.ac.uk/ultra/courses/_81434_1/cl/outline), Machine Learning
+* [COMP24202](https://online.manchester.ac.uk/ultra/courses/_81478_1/cl/outline), Reinforcement Learning
+  * If you are Manchester students and would like to audit this course, contact <aidecisionscdt@manchester.ac.uk>
 
 ## Past Teaching at TU Delft
 * Thesis project for Master in Robotics (past topics can be found [here](https://panweihit.github.io/people/))
