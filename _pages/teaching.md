@@ -8,6 +8,7 @@ author_profile: true
 ## Current Teaching at Manchester
 * [COMP24112](https://online.manchester.ac.uk/ultra/courses/_81434_1/cl/outline), Machine Learning
 * [COMP24202](https://online.manchester.ac.uk/ultra/courses/_81478_1/cl/outline), Reinforcement Learning
+  * Coding assignment: [Github Link](https://github.com/mingfeisun/COMP64202-RL) 
   * If you are Manchester students and would like to audit this course, contact <aidecisionscdt@manchester.ac.uk>
 
 ## Past Teaching at TU Delft
