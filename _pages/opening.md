@@ -25,3 +25,10 @@ Fully-funded and self-funded PhD positions are available at the Department of Co
 - [A list of funding oppurtunities](https://www.cs.manchester.ac.uk/study/postgraduate-research/funding/) in the Department of Computer Science
 
 Please check the [English Requirement](https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/02954/phd-computer-science/entry-requirements/#course-profile) before you apply [Computer Science PhD pragram](https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/02954/phd-computer-science/).  If you have any questions to funding, please don't hesitate to direct your inquires to our [CS Department Admission Office](https://www.cs.manchester.ac.uk/connect/contact/).
+
+
+### Past Openings
+
+- <span style="color:red">AI CDT Position 1: [Al-Driven Materials Design for Next-Generation Capacitors](https://www.findaphd.com/phds/project/al-driven-materials-design-for-next-generation-capacitors/?p176943)</span>
+- <span style="color:red">AI CDT Position 2: [Designing Optimal Strategies for Controlling Complex Quantum Systems](https://www.findaphd.com/phds/project/designing-optimal-strategies-for-controlling-complex-quantum-systems/?p177132)</span>
+- <span style="color:red"> Bicentenary Scholarship: [AI-Driven Robotics for Intelligent Construction: Optimising Human-Robot Collaboration through Digitalisation](https://www.findaphd.com/phds/project/fse-bicentenary-phd-ai-driven-robotics-for-intelligent-construction-optimising-human-robot-collaboration-through-digitalisation/?p179090)</span>
