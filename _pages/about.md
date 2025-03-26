@@ -16,6 +16,8 @@ I have a broad interest in (any, multi)robot control using Bayesian machine lear
 
 **PhD positions are available** at [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/author/wei-pan/), [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2024)
 
+Disclaimer: If you want to apply for a PhD/postdoc position with me, you can only do so through official channels or by contacting me directly. I do not accept applications through commercial intermediaries or platform operation accounts without authorization.
+
 
 **[Past News](https://panweihit.github.io/news)**
 
