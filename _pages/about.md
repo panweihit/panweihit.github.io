@@ -16,6 +16,8 @@ I have a broad interest in (any, multi)robot control using Bayesian machine lear
 
 **PhD positions are available** at [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/author/wei-pan/), [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2024)
 
+**UoM-Tsinghua Dual Award PhD Position** [Hardware-Accelerated Online Learning for Vision-Language-Action Models in Robotic Systems](https://www.findaphd.com/phds/project/uom-tsinghua-hardware-accelerated-online-learning-for-vision-language-action-models-in-robotic-systems/?p184388)
+
 Disclaimer: If you want to apply for a PhD/postdoc position with me, you can only do so through official channels or by contacting me directly. I do not accept applications through commercial intermediaries or platform operation accounts without authorization.
 
 
