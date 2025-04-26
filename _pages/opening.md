@@ -32,3 +32,8 @@ Please check the [English Requirement](https://www.manchester.ac.uk/study/postgr
 - <span style="color:red">AI CDT Position 1: [Al-Driven Materials Design for Next-Generation Capacitors](https://www.findaphd.com/phds/project/al-driven-materials-design-for-next-generation-capacitors/?p176943)</span>
 - <span style="color:red">AI CDT Position 2: [Designing Optimal Strategies for Controlling Complex Quantum Systems](https://www.findaphd.com/phds/project/designing-optimal-strategies-for-controlling-complex-quantum-systems/?p177132)</span>
 - <span style="color:red"> Bicentenary Scholarship: [AI-Driven Robotics for Intelligent Construction: Optimising Human-Robot Collaboration through Digitalisation](https://www.findaphd.com/phds/project/fse-bicentenary-phd-ai-driven-robotics-for-intelligent-construction-optimising-human-robot-collaboration-through-digitalisation/?p179090)</span>
+
+
+
+Disclaimer: If you want to apply for a PhD/postdoc position with me, you can only do so through official channels or by contacting me directly. I do not accept applications through commercial intermediaries or platform operation accounts without authorization.
+
