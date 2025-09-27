@@ -4,7 +4,7 @@ title: "People"
 author_profile: true
 ---
 ## Postdoc
-- [Jiatao Ding](https://scholar.google.it/citations?user=bGyUJrQAAAAJ&hl=en) (with [Cosimo Della Santina](https://www.tudelft.nl/en/staff/c.dellasantina/?cHash=6a7f063abd53b619a886cf2f9c6e06be)) 
+
 
 ## PhD Candidates
 
