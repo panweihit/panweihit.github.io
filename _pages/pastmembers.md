@@ -12,8 +12,9 @@ author_profile: true
 *  [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
 
 <h3>Past PhD Students</h3>
-  
-* [Dr Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now Asisstant Professor at Univesrity of Manchester, UK.
+
+*  [Dr Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now Asisstant Professor at Univesrity of Manchester, UK.
+*  [Dr Yujie Tang]()
 
 <h3>Past Visiting students </h3>
 
