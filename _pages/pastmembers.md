@@ -9,7 +9,7 @@ author_profile: true
 
 *  [Prof Chengchao Bai](https://scholar.google.com/citations?user=Ll6fKO8AAAAJ&hl=en&oi=ao), now Professor at Harbin Institute of Technology, China
 *  [Prof Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=en&oi=ao), now Associate Professor at Sun Yat-sen University, China
-*  [Prof Jiatao Ding](https://scholar.google.it/citations?user=bGyUJrQAAAAJ&hl=en) (with [Cosimo Della Santina](https://www.tudelft.nl/en/staff/c.dellasantina/?cHash=6a7f063abd53b619a886cf2f9c6e06be)), now Associate Professor at Beijing University of Posts and Telecommunications, China 
+*  [Prof Jiatao Ding](https://scholar.google.it/citations?user=bGyUJrQAAAAJ&hl=en), now Associate Professor at Beijing University of Posts and Telecommunications, China 
 
 <h3>Past PhD Students</h3>
 
