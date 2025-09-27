@@ -9,18 +9,23 @@ author_profile: true
 
 *  [Prof Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
 *  [Prof Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Associate Professor at Sun Yat-sen University, China
-*  [Dr Zhipeng Zhou](https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN), now Researcher at Alibaba DAMO Academy, China
+*  [Prof Jiatao Ding](https://scholar.google.it/citations?user=bGyUJrQAAAAJ&hl=en) (with [Cosimo Della Santina](https://www.tudelft.nl/en/staff/c.dellasantina/?cHash=6a7f063abd53b619a886cf2f9c6e06be)), now Associate Professor at Beijing University of Posts and Telecommunications, China 
 
 <h3>Past PhD Students</h3>
 
-*  [Dr Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now Asisstant Professor at Univesrity of Manchester, UK.
+*  [Prof Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now Assistant Professor at Univesrity of Manchester, UK.
 *  [Dr Yujie Tang]()
+*  [Prof Yang Li](), now Assistant Professor at Shanghai Jiaotong University, China
 
 <h3>Past Visiting students </h3>
 
 * [Prof Chengwei Wu](http://homepage.hit.edu.cn/wuchengwei), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Technology, China.
 * [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) 
 * [Minghao Han](https://hithmh.github.io/MinghaoHan/), (with Prof. Lixian Zhang), now at Research Fellow at Nanyang Technological University, Singapore.
+* Xue Liu
+* Wenhan Cao
+* Huiqian Liu
+* Yuwei Liu
 
 
 <h3>Past Master Students</h3>
