@@ -7,24 +7,24 @@ author_profile: true
 <h3>Past PostDoc</h3>
   
 
-*  [Prof Chengchao Bai](http://homepage.hit.edu.cn/baichengchao?lang=zh), now Associate Professor at Harbin Institute of Technology, China
-*  [Prof Qingrui Zhang](http://saa.sysu.edu.cn/teacher/427), now Associate Professor at Sun Yat-sen University, China
+*  [Prof Chengchao Bai](https://scholar.google.com/citations?user=Ll6fKO8AAAAJ&hl=en&oi=ao), now Professor at Harbin Institute of Technology, China
+*  [Prof Qingrui Zhang](https://scholar.google.com/citations?user=Bt1jFVcAAAAJ&hl=en&oi=ao), now Associate Professor at Sun Yat-sen University, China
 *  [Prof Jiatao Ding](https://scholar.google.it/citations?user=bGyUJrQAAAAJ&hl=en) (with [Cosimo Della Santina](https://www.tudelft.nl/en/staff/c.dellasantina/?cHash=6a7f063abd53b619a886cf2f9c6e06be)), now Associate Professor at Beijing University of Posts and Telecommunications, China 
 
 <h3>Past PhD Students</h3>
 
 *  [Prof Hongpeng Zhou](https://scholar.google.com/citations?user=StuUN6wAAAAJ&hl=zh-CN), now Assistant Professor at Univesrity of Manchester, UK.
-*  [Dr Yujie Tang]()
-*  [Prof Yang Li](), now Assistant Professor at Shanghai Jiaotong University, China
+*  [Dr Yujie Tang](https://scholar.google.com/citations?hl=en&user=wCc_YsUAAAAJ)
+*  [Prof Yang Li](https://scholar.google.com/citations?user=msAmwaoAAAAJ&hl=en), now Assistant Professor at Shanghai Jiaotong University, China
 
 <h3>Past Visiting students </h3>
 
-* [Prof Chengwei Wu](http://homepage.hit.edu.cn/wuchengwei), (with Prof. Ligang Wu), now Assistant Professor at Harbin Institute of Technology, China.
-* [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en) 
-* [Minghao Han](https://hithmh.github.io/MinghaoHan/), (with Prof. Lixian Zhang), now at Research Fellow at Nanyang Technological University, Singapore.
-* Xue Liu
-* Wenhan Cao
-* Huiqian Liu
+* [Prof Chengwei Wu](https://scholar.google.com/citations?user=7Zqp6iQAAAAJ&hl=en&oi=ao), now Associate Professor at Harbin Institute of Technology, China.
+* [Desong Du](https://scholar.google.com/citations?user=8P1k52MAAAAJ&hl=en), now Assistant Professor at Harbin Institute of Technology, China.
+* [Minghao Han](https://scholar.google.com/citations?user=vSFTX1AAAAAJ&hl=en&oi=ao)
+* [Xue Liu](https://scholar.google.com/citations?user=uatBGmwAAAAJ&hl=en&oi=ao)
+* [Wenhan Cao](https://scholar.google.com/citations?user=43xAy7MAAAAJ&hl=en&oi=ao)
+* [Huiqian Li](https://scholar.google.com/citations?user=8RVecpEAAAAJ&hl=en&oi=ao)
 * Yuwei Liu
 
 
