@@ -9,14 +9,15 @@ author_profile: true
 ## PhD Candidates
 
 ### Main Supervisor
-- [Yang Li](https://liyang.page/)
 - Yiyu Jiang
 - [Maytus Piriyajitakonkij](https://www.maytusp.com/) 
 - [Hossein Abdi](https://scholar.google.com/citations?user=zF8QxsEAAAAJ&hl=en)
 - [Rishabh Dev Yadav](https://rishabhdevyadav.github.io/rishabhdevyadav/)
 - [Jiaming Chen](https://ppjmchen.github.io)
 - Jacob Cummins 
-- Hongyu Song 
+- Hongyu Song
+- Haozhuo Zhang
+- Mingzhe Ni
 
 ### Co-Supervisor
 - [Avirup Das](https://scholar.google.com/citations?user=1XCHkskAAAAJ&hl=en) (with [Samuel Kaski](https://research.manchester.ac.uk/en/persons/samuel.kaski))
@@ -28,13 +29,15 @@ author_profile: true
 - [Amr Mousa](https://www.linkedin.com/in/amousa95/) (with [Richard Allmendinger](https://research.manchester.ac.uk/en/persons/richard.allmendinger) and [Theodore Papamarkou](https://research.manchester.ac.uk/en/persons/theodore-papamarkou))
 - [Evelyn D'Elia](https://ami.iit.it/people-details/-/people/evelyn-delia) ([IIT](https://www.iit.it), with [Daniele Pucci](https://www.iit.it/people-details/-/people/daniele-pucci) and [Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi))
 - Sergio Angelini (with [Alex Skillen](https://research.manchester.ac.uk/en/persons/alex.skillen) and [Mingfei Sun](https://research.manchester.ac.uk/en/persons/mingfei-sun))
+- Tzu-Liang Hsu (with [Philip Taranto](https://research.manchester.ac.uk/en/persons/philip.aranto) and [Mauricio Alvarez](https://research.manchester.ac.uk/en/persons/mauricio.alvarez))
 
 
-### Visiting Student
+### Visitors
+- Qihan Qi
+- Yu Wang
 
 
 ### TU Delft
-- [Yujie Tang](https://www.tudelft.nl/staff/y.tang-6/?cHash=284c7e0d5b9bb7e8a605c3962f045448) (with [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d))
 - [Chuhan Zhang](https://www.linkedin.com/in/chuhan-zhang-44279b1b7/?originalSubdomain=nl) (with [Cosimo Della Santina](https://www.tudelft.nl/en/staff/c.dellasantina/?cHash=6a7f063abd53b619a886cf2f9c6e06be) and [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d))
 
 
