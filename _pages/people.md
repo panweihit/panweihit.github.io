@@ -35,8 +35,7 @@ author_profile: true
 - [Chuhan Zhang](https://www.linkedin.com/in/chuhan-zhang-44279b1b7/?originalSubdomain=nl) (with [Cosimo Della Santina](https://www.tudelft.nl/en/staff/c.dellasantina/?cHash=6a7f063abd53b619a886cf2f9c6e06be) and [Martijn Wisse](https://www.tudelft.nl/staff/m.wisse/?cHash=41274e0e3907f9c9121d467c295c6c4d))
   
 ### Visitors
-- Qihan Qi
-- Yu Wang
+
 
 
 ## [Past Members](https://panweihit.github.io/people/past)
