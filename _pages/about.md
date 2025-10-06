@@ -12,7 +12,7 @@ I am a [Senior Lecturer](https://www.research.manchester.ac.uk/portal/wei.pan.ht
 
 I have a broad interest in (any & multi) robot control using Bayesian machine learning and the principles of dynamic control. 
 
-[![Watch the video](/images/panlab.png)](https://youtu.be/_8Yr_QRRYik)
+[![Watch the video](/images/panlab.png)](https://youtu.be/8FIxFeZgqJ0)
 
 
 **Openings for PostDocs, PhDs and visitors.** Please [email us](mailto:wei.pan@manchester.ac.uk) if you wish to join my group. Find [more information](https://panweihit.github.io/opening/) about funding opportunities. 
