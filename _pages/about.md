@@ -20,7 +20,7 @@ Click to watch demos of our lab's work and collaborations
 
 **PhD positions are available** at [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/author/wei-pan/), [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2024)
 
-**Master courses are available** at [MSc Machine Learning](https://www.manchester.ac.uk/study/masters/courses/list/21576/msc-machine-learning/) and [MSc Robotics](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/), where I teach [COMP64202 Reinforcement Learning](https://github.com/mingfeisun/COMP64202-RL)
+**Master courses are available** at [MSc Machine Learning](https://www.manchester.ac.uk/study/masters/courses/list/21576/msc-machine-learning/), [MSc Robotics](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/) and [MSc Artificial Intelligence](https://www.manchester.ac.uk/study/masters/courses/list/21574/msc-artificial-intelligence/), where I teach [COMP64202 Reinforcement Learning](https://github.com/mingfeisun/COMP64202-RL)
 
 
 **[Past News](https://panweihit.github.io/news)**
