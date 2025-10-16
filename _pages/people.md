@@ -15,7 +15,7 @@ author_profile: true
 - [Jiaming Chen](https://ppjmchen.github.io)
 - Jacob Cummins 
 - Hongyu Song
-- Haozhuo Zhang
+- [Haozhuo Zhang](https://haozhuo-zhang.github.io/)
 - Mingzhe Ni
 
 ### Co-Supervisor
