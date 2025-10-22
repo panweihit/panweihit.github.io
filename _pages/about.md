@@ -15,7 +15,8 @@ I have a broad interest in (any & multi) robot control using Bayesian machine le
 Click to watch demos of our lab's work and collaborations
 [![Watch the video](/images/panlab.png)](https://youtu.be/8FIxFeZgqJ0)
 
-**FSE Bicentenary PhD Scholarship** [Conformal World Models: A Framework for Trustworthy Human-AI Interaction in Robotics](https://www.findaphd.com/phds/project/fse-bicentenary-phd-conformal-world-models-a-framework-for-trustworthy-human-ai-interaction-in-robotics/?p184388)
+
+**<span style="color:red;">Bicentenary PhD Scholarship</span>** [Conformal World Models: A Framework for Trustworthy Human-AI Interaction in Robotics](https://www.findaphd.com/phds/project/fse-bicentenary-phd-conformal-world-models-a-framework-for-trustworthy-human-ai-interaction-in-robotics/?p184388)
 
 **Openings for PostDocs, PhDs and visitors.** Please [email us](mailto:wei.pan@manchester.ac.uk) if you wish to join my group. Find [more information](https://panweihit.github.io/opening/) about funding opportunities. 
 
