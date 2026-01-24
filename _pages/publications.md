@@ -4,14 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-I publish and review papers in major venues spanning several research fields: Control (e.g., TAC, Automatica, CDC), Machine Learning (e.g., NeurIPS, ICML, ICLR), and Robotics (e.g., TRO, RAL, CoRL, ICRA, IROS).
+I publish and review papers in major venues spanning several research fields: Control (e.g., TAC, Automatica), Machine Learning (e.g., NeurIPS, ICML, ICLR), and Robotics (e.g., TRO, RAL, CoRL, ICRA, IROS).
 
 ## PhD Thesis
 <b>[Bayesian Learning for Nonlinear System Identification](http://panweihit.github.io/publications/thesis)</b><br>
 <b>Wei Pan</b>.<br>
 <i>Imperial College London.</i> <b>2017</b>.
 
-## Ten Selected Publications
+<!---## Ten Selected Publications
 
 <b>[A Sparse Bayesian Approach to the Identification of Nonlinear State-Space Systems](https://ieeexplore.ieee.org/document/7094238)</b><br>
 <b>Wei Pan</b>, Ye Yuan, Jorge Gonçalves, and Guy-Bart Stan.<br>
@@ -54,7 +54,7 @@ Yang Li, Shao Zhang, Jichen Sun, Wenhao Zhang, Yali Du, Ying Wen, Xinbing Wang, 
 <b>[Computation-Aware Learning for Stable Control with Gaussian Process](https://arxiv.org/abs/2406.02272)</b><br>
 Wenhan Cao, Alexandre Capone, Rishabh Yadav, Sandra Hirche, and <b>Wei Pan</b>.<br>
 <i>Robotics: Science and Systems (RSS)</i> <b>2024</b>.
-
+--->
 
 
 
