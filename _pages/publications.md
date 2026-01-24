@@ -7,7 +7,7 @@ author_profile: true
 I publish and review papers in major venues spanning several research fields: Control (e.g., TAC, Automatica), Machine Learning (e.g., NeurIPS, ICML, ICLR), and Robotics (e.g., TRO, RAL, CoRL, ICRA, IROS).
 
 ## PhD Thesis
-<b>[Bayesian Learning for Nonlinear System Identification](http://panweihit.github.io/publications/thesis)</b><br>
+<b>[Bayesian Learning for Nonlinear System Identification](https://spiral.imperial.ac.uk/entities/publication/95572b63-adcd-4370-bf6f-04f5c18bfd2f)</b><br>
 <b>Wei Pan</b>.<br>
 <i>Imperial College London.</i> <b>2017</b>.
 
