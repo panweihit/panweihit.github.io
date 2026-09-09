@@ -13,7 +13,7 @@ I am a Full Professor in Autonomous Systems and Automatic Control in School of E
 I have a broad interest in (any & multi) robot control using Bayesian machine learning and the principles of dynamic control. 
 
 Click to watch demos of our lab's work and collaborations
-[![Watch the video](/images/panlab.png)](https://youtu.be/8FIxFeZgqJ0)
+[![Watch the video](/images/panlab2.png)](https://youtu.be/8FIxFeZgqJ0)
 
 
 **Openings for PostDocs, PhDs and visitors.** Please [email us](mailto:wei.pan2@newcastle.ac.uk) if you wish to join my group. Find [more information](https://panweihit.github.io/opening/) about funding opportunities. 
