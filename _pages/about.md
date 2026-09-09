@@ -16,13 +16,8 @@ Click to watch demos of our lab's work and collaborations
 [![Watch the video](/images/panlab.png)](https://youtu.be/8FIxFeZgqJ0)
 
 
-**<span style="color:red;">Bicentenary PhD Scholarship</span>** [Conformal World Models: A Framework for Trustworthy Human-AI Interaction in Robotics](https://www.findaphd.com/phds/project/fse-bicentenary-phd-conformal-world-models-a-framework-for-trustworthy-human-ai-interaction-in-robotics/?p184388)
+**Openings for PostDocs, PhDs and visitors.** Please [email us](mailto:wei.pan2@newcastle.ac.uk) if you wish to join my group. Find [more information](https://panweihit.github.io/opening/) about funding opportunities. 
 
-**Openings for PostDocs, PhDs and visitors.** Please [email us](mailto:wei.pan@manchester.ac.uk) if you wish to join my group. Find [more information](https://panweihit.github.io/opening/) about funding opportunities. 
-
-**PhD positions are available** at [UKRI AI CDT in Decision Making for Complex Systems](https://ai-decisions-cdt.github.io/hugo-pages/author/wei-pan/), [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2024)
-
-**Master courses are available** at [MSc Machine Learning](https://www.manchester.ac.uk/study/masters/courses/list/21576/msc-machine-learning/), [MSc Robotics](https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/) and [MSc Artificial Intelligence](https://www.manchester.ac.uk/study/masters/courses/list/21574/msc-artificial-intelligence/), where I teach [COMP64202 Reinforcement Learning](https://github.com/mingfeisun/COMP64202-RL)
 
 
 **[Past News](https://panweihit.github.io/news)**
