@@ -12,7 +12,7 @@ I am a [Full Professor of Autonomous Systems and Automatic Control](https://www.
 
 I have a broad interest in (any & multi) robot control using Bayesian machine learning and the principles of dynamic control. 
 
-Click the figure below to watch demos of our lab's work and collaborations or visit [YouTube channel](https://www.youtube.com/user/panweihit) 
+Click to watch demos of our lab's work and collaborations or visit [YouTube channel](https://www.youtube.com/user/panweihit) 
 [![Watch the video](/images/panlab2.png)](https://newcastle-my.sharepoint.com/:v:/g/personal/nwp31_newcastle_ac_uk/)
 
 
