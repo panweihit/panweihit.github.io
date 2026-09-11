@@ -4,8 +4,8 @@ title: "Robots"
 author_profile: true
 ---
 
-[![Watch the video](/images/panlab.png)](https://www.dropbox.com/scl/fi/tigb56uve21tgivlm8zdx/panlab.mp4?rlkey=kubl857uskylq5hisxe3mkt9i&st=b9uet56q&dl=0)
+[![Watch the video](/images/panlab2.png)](https://newcastle-my.sharepoint.com/:v:/g/personal/nwp31_newcastle_ac_uk/IQCp7v9HLZHsSYUyJSDraBoZAeGe5KKhIPp2PwFjbYwgvcU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KOiIPs)
 
-[YouTube channel](https://www.youtube.com/user/panweihit)
+[YouTube channel](https://www.youtube.com/user/panweihit) 
 
  
