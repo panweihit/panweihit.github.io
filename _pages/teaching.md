@@ -5,7 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching at Manchester
+## MOOC
+* [Quadrupeds: From Dynamic Modelling to Reinforcement Learning](https://www.shenlanxueyuan.com/course/876)
+
+## Past Teaching at Manchester
 * [COMP24112](https://online.manchester.ac.uk/ultra/courses/_81434_1/cl/outline), Machine Learning
 * [COMP24202](https://online.manchester.ac.uk/ultra/courses/_81478_1/cl/outline), Reinforcement Learning
   * Coding assignment: [Github Link](https://github.com/mingfeisun/COMP64202-RL) 
